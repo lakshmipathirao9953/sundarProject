@@ -6,4 +6,5 @@ tensorflow
 keras
 matplotlib
 seaborn
-pymysql  # Replacing mysqlclient for easier deployment
+pymysql
+opencv-python-headless  # OpenCV version suitable for servers
